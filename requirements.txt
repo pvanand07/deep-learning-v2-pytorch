@@ -13,3 +13,4 @@ h5py
 ipykernel
 bokeh
 pickleshare
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
